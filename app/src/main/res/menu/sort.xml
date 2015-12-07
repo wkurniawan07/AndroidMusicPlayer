@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:balloonberry="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <item
+        android:id="@+id/sort_tfa"
+        android:orderInCategory="1"
+        balloonberry:showAsAction="never"
+        android:title="@string/sort_tfa" />
+
+    <item
+        android:id="@+id/sort_tfd"
+        android:orderInCategory="2"
+        balloonberry:showAsAction="never"
+        android:title="@string/sort_tfd" />
+
+    <item
+        android:id="@+id/sort_afa"
+        android:orderInCategory="3"
+        balloonberry:showAsAction="never"
+        android:title="@string/sort_afa" />
+
+    <item
+        android:id="@+id/sort_afd"
+        android:orderInCategory="4"
+        balloonberry:showAsAction="never"
+        android:title="@string/sort_afd" />
+
+</menu>

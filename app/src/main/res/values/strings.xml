@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Music Player</string>
+    <string name="sort_tfa">Sort by title, ascending</string>
+    <string name="sort_tfd">Sort by title, descending</string>
+    <string name="sort_afa">Sort by artist, ascending</string>
+    <string name="sort_afd">Sort by artist, descending</string>
+    <string name="loop_button">Button to toggle looping</string>
+    <string name="shuffle_button">Button to toggle shuffle play</string>
+    <string name="quit_button">Button to stop playback or quit the app</string>
+</resources>
