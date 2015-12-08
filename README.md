@@ -3,8 +3,8 @@ Code hosted in https://github.com/wkurniawan07/AndroidMusicPlayer.
 
 ### Specification
 
-Minimum SDK: 19
-Permissions: wake lock, reading external storage
+- Minimum SDK: 19
+- Permissions: wake lock, reading external storage
 
 ### Credits
 
@@ -22,7 +22,7 @@ For the inspiration on how the UI looks.
 
 - Egor Rumyantsev from www.flaticon.com.
 
-For providing the amazing icons used in the UI. Full credit: <div>Icon made by <a href="http://www.behance.com/pio-5" title="Egor Rumyantsev">Egor Rumyantsev</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>.
+For providing the amazing icons used in the UI. Full credit: Icon made by <a href="http://www.behance.com/pio-5" title="Egor Rumyantsev">Egor Rumyantsev</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>.
 
 - Countless of [stackoverflow](http://stackoverflow.com/) posts
 
